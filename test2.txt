@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+2nd text
+=======
+test unnkounnnkounnkounnkou
+
+afsdklfjsadkl;fjklasd;fjsldkf
+sdafsdkfa;
+
+git hakatabenn
+daikirai
+saru wakarann
+
+yattaze
+
+github de kakikaetaze
+>>>>>>> 91b67b2589e835bd73858f04c5d4d09c71ad0e30
